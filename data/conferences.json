@@ -3,7 +3,7 @@
     "name": "IEEE International Conference on Robotics and Automation (ICRA) 2026",
     "acronym": "ICRA",
     "location": "Vienna, Austria",
-    "deadline": "2025-09-15 23:59 -0800",
+    "deadline": "2025-09-15T23:59:00-08:00",
     "timezone": "NA",
     "host_date": "1–5 June 2026",
     "url": "https://www.icra2025.org/"
@@ -14,25 +14,25 @@
     "location": "Pittsburgh,USA",
     "deadline": "NA",
     "timezone": "NA",
-    "host_date":"September 27 to October 1, 2026",
+    "host_date": "September 27 to October 1, 2026",
     "url": "NA"
   },
   {
     "name": "Conference on Robot Learning (CoRL) 2026",
     "acronym": "CoRL",
     "location": "AUSTIN, TEXAS, USA",
-    "deadline": "N/A",
+    "deadline": "NA",
     "timezone": "NA",
-    "host_date":"November 2026",
+    "host_date": "November 2026",
     "url": "NA"
   },
   {
     "name": "International Conference on Learning Representations (ICLR) 2026",
     "acronym": "ICLR",
     "location": "Rio de Janeiro, Brazil",
-    "deadline": "2025-09-24 23:59 -0000",
+    "deadline": "2025-09-24T23:59:00+00:00",
     "timezone": "NA",
-    "host_date":"April 23-27, 2026",
+    "host_date": "April 23-27, 2026",
     "url": "https://iclr.cc/"
   },
   {
@@ -41,7 +41,7 @@
     "location": "Sydney, Australia",
     "deadline": "NA",
     "timezone": "NA",
-    "host_date":"July 13–17, 2026",
+    "host_date": "July 13–17, 2026",
     "url": "https://roboticsconference.org/"
   }
 ]
