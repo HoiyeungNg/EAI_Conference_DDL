@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Live countdown timers for the next paper submission deadlines of the flagship robotics and AI conferences."
+    />
+    <title>Robotics Conference Deadlines</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <header class="hero">
+      <p class="hero__eyebrow">Real-time countdown</p>
+      <h1>Flagship Robotics &amp; AI Conference Deadlines</h1>
+      <p class="hero__lead">
+        Stay on top of ICRA, IROS, CoRL, ICLR, and RSS submission cutoffs with a live,
+        auto-refreshing dashboard. All times are rendered in your current timezone for clarity.
+      </p>
+      <div class="hero__actions">
+        <a
+          class="button"
+          href="https://github.com/HoiyeungNg/EAI_Conference_DDL"
+          target="_blank"
+          rel="noreferrer"
+          >View on GitHub</a
+        >
+        <a class="button button--ghost" href="#deadlines">Jump to countdowns</a>
+      </div>
+    </header>
+
+    <main class="main">
+      <section id="deadlines" class="panel" aria-live="polite">
+        <div id="status" class="status">Loading deadlines…</div>
+        <div id="conferenceGrid" class="grid" role="list"></div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>
+        Data is based on the latest public calls for papers.
+        Always double-check the official conference websites for updates.
+      </p>
+    </footer>
+  </body>
+</html>

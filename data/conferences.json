@@ -1,0 +1,52 @@
+[
+  {
+    "name": "IEEE International Conference on Robotics and Automation (ICRA) 2025",
+    "acronym": "ICRA",
+    "location": "Atlanta, USA",
+    "deadline": "2024-09-16T23:59:00-12:00",
+    "deadlineNote": "Final paper deadline, Anywhere on Earth (UTC-12)",
+    "timezone": "UTC-12 (AoE)",
+    "note": "Workshops and late-breaking deadlines differ.",
+    "url": "https://www.icra2025.org/"
+  },
+  {
+    "name": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025",
+    "acronym": "IROS",
+    "location": "Rotterdam, Netherlands",
+    "deadline": "2025-03-07T23:59:00+01:00",
+    "deadlineNote": "Main paper deadline, Central European Time",
+    "timezone": "UTC+01:00",
+    "note": "Workshop and competition deadlines vary.",
+    "url": "https://iros2025.org/"
+  },
+  {
+    "name": "Conference on Robot Learning (CoRL) 2024",
+    "acronym": "CoRL",
+    "location": "Munich, Germany",
+    "deadline": "2024-06-18T23:59:00-12:00",
+    "deadlineNote": "Full paper deadline, Anywhere on Earth (UTC-12)",
+    "timezone": "UTC-12 (AoE)",
+    "note": "Supplementary material is typically due 48 hours later.",
+    "url": "https://www.corl2024.org/"
+  },
+  {
+    "name": "International Conference on Learning Representations (ICLR) 2025",
+    "acronym": "ICLR",
+    "location": "Singapore",
+    "deadline": "2024-09-27T23:59:00-12:00",
+    "deadlineNote": "Paper submission deadline, Anywhere on Earth (UTC-12)",
+    "timezone": "UTC-12 (AoE)",
+    "note": "OpenReview submissions close at the same instant.",
+    "url": "https://iclr.cc/"
+  },
+  {
+    "name": "Robotics: Science and Systems (RSS) 2025",
+    "acronym": "RSS",
+    "location": "Denver, USA",
+    "deadline": "2025-02-03T23:59:00-12:00",
+    "deadlineNote": "Paper deadline, Anywhere on Earth (UTC-12)",
+    "timezone": "UTC-12 (AoE)",
+    "note": "Video material is usually due one week after papers.",
+    "url": "https://roboticsconference.org/"
+  }
+]
